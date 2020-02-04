@@ -2,4 +2,4 @@
 
 1. What'stheweather
   - set background with image /// Get JSON from openweathermap.org /// Get data in background using Asynctask and InputStream and InputStreamReader. 
- https://github.com/lvtute/Android-Examples/blob/master/images%20for%20readme/whatstheweather.png?raw=true
+![image](https://user-images.githubusercontent.com/16172615/73701569-8a1c7a80-471c-11ea-9436-18eb4f488cba.png)
