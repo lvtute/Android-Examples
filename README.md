@@ -47,7 +47,7 @@ ___
 <!-- Task lists -->
 * [x] Task 1
 * [x] Task 2
-* [  ] Task 3
+* [] Task 3
 
 
 ---
@@ -59,4 +59,16 @@ ___
   
 ![image](https://user-images.githubusercontent.com/16172615/73701569-8a1c7a80-471c-11ea-9436-18eb4f488cba.png)
 
-
+2. **Map and location demo**
+  * App features:
+    ```
+    * [x] Tracking user's position and show on map.
+    ```
+  * Techniques used:
+    ```
+    * [x] LocationManager
+    * [x] LocationListener
+    * [x] mMap.addMarker
+    * [x] LatLng userLocation = new LatLng(location.getLatitude(), location.getLongitude());
+    ```
+  ![image](https://user-images.githubusercontent.com/16172615/74205687-fb26d980-4caa-11ea-82d7-e25bfa0ad8ed.png)
