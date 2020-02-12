@@ -53,22 +53,39 @@ ___
 ---
 ___
 # Main part- Android examples
-1. **What'stheweather**
+## 1. **What'stheweather**
   * Set background with image /// Get JSON from openweathermap.org /// Get data in background using Asynctask and InputStream and InputStreamReader. 
 
   
 ![image](https://user-images.githubusercontent.com/16172615/73701569-8a1c7a80-471c-11ea-9436-18eb4f488cba.png)
 
-2. **Map and location demo**
+## 2. **Map and location demo**
   * App features:
  
     * [x] Tracking user's position and show on map.
    
   * Techniques used:
     
+    * [x] Checking user device SDK version
     * [x] LocationManager
     * [x] LocationListener
     * [x] mMap.addMarker
     * [x] LatLng userLocation = new LatLng(location.getLatitude(), location.getLongitude());
     
   ![image](https://user-images.githubusercontent.com/16172615/74205687-fb26d980-4caa-11ea-82d7-e25bfa0ad8ed.png)
+
+
+  ## 3. **Hikers's watch**
+    * Background image was got from 
+  [unsplash.com](https://unsplash.com/)
+    * App features:
+      * [x] Show device latitude
+      * [x] Show device longtitude
+      * [x] Show device laltitude
+      * [x] Show device address
+    * New techniques used:
+      * [x] Geocoder
+
+    * Image:
+    
+    ![image](https://user-images.githubusercontent.com/16172615/74294133-97b2af80-4d6f-11ea-8cc6-d6b18563eac4.png)
