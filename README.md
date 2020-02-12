@@ -76,15 +76,16 @@ ___
 
 
   ## 3. **Hikers's watch**
-    * Background image was got from 
+  * Background image was got from 
   [unsplash.com](https://unsplash.com/)
-    * App features:
+  * App features:
       * [x] Show device latitude
       * [x] Show device longtitude
       * [x] Show device laltitude
       * [x] Show device address
-    * New techniques used:
+  * New techniques used:
       * [x] Geocoder
 
-    * Image:
+  * Image:
+
 ![image](https://user-images.githubusercontent.com/16172615/74294133-97b2af80-4d6f-11ea-8cc6-d6b18563eac4.png)
