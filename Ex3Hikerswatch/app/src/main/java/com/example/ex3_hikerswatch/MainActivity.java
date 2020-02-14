@@ -126,8 +126,5 @@ public class MainActivity extends AppCompatActivity {
 
 
         addressTextView.setText(address);
-
-
-
      }
 }
