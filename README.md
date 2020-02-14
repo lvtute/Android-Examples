@@ -104,7 +104,7 @@ ___
 
 ## 5. **Menu demo**
 * App features:
-  * [x] Choose language and save it to shared preferences. If there is saved language, then load it and don't ask again.
+  * [x] Ask user to choose a language and save it to shared preferences. If there is saved language, then load it and doesn't ask again.
 * New techniques used:
   * [x] Alert dialog
   
@@ -113,5 +113,20 @@ ___
 ![image](https://user-images.githubusercontent.com/16172615/74563445-64566780-4f9f-11ea-9046-e81c069d8f9d.png)
 ![image](https://user-images.githubusercontent.com/16172615/74563489-7e904580-4f9f-11ea-9166-2026017e23cc.png)
 
+## 5. **Notes**
+* App features:
+  * [x] Add new note
+  * [x] Edit note
+  * [x] Delete note
+  * [x] Save/Load note with shared preferences.
+* New techniques used:
+  * [x] Save Set<String> to shared preferences.
+  * [x] Set text changed listener for edittext.
+  
+* Image:
 
-xxx zzz
+![image](https://user-images.githubusercontent.com/16172615/74575969-a2fa1b00-4fbb-11ea-88f9-3e004023be75.png)
+![image](https://user-images.githubusercontent.com/16172615/74575999-b9a07200-4fbb-11ea-8bd9-b17436fa1635.png)
+![image](https://user-images.githubusercontent.com/16172615/74576011-c624ca80-4fbb-11ea-9ec1-e24ee6835681.png)
+![image](https://user-images.githubusercontent.com/16172615/74576029-d341b980-4fbb-11ea-9ffd-49ec7d83968b.png)
+![image](https://user-images.githubusercontent.com/16172615/74576040-e18fd580-4fbb-11ea-98f3-a5414de2d087.png)
