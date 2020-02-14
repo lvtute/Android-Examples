@@ -89,3 +89,16 @@ ___
   * Image:
 
 ![image](https://user-images.githubusercontent.com/16172615/74294133-97b2af80-4d6f-11ea-8cc6-d6b18563eac4.png)
+
+## 4. **Menu demo**
+* App features:
+  * [x] Create a menu of options on the action bar
+* New techniques used:
+  * [x] onCreateOptionsMenu();
+  * [x] onOptionsItemSelected();
+  * [x] MenuInflater.inflate();
+  
+* Image:
+
+![image](https://user-images.githubusercontent.com/16172615/74557503-dc6a6080-4f92-11ea-9fbf-50d36af772e3.png) ![image](https://user-images.githubusercontent.com/16172615/74557576-00c63d00-4f93-11ea-93af-bbd5a49a19db.png)
+
