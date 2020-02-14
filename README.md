@@ -102,3 +102,11 @@ ___
 
 ![image](https://user-images.githubusercontent.com/16172615/74557503-dc6a6080-4f92-11ea-9fbf-50d36af772e3.png) ![image](https://user-images.githubusercontent.com/16172615/74557576-00c63d00-4f93-11ea-93af-bbd5a49a19db.png)
 
+## 5. **Menu demo**
+* App features:
+  * [x] Choose language and save it to shared preferences. If there is saved language, then load it and don't ask again.
+* New techniques used:
+  * [x] Alert dialog
+  
+* Image:
+
