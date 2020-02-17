@@ -130,3 +130,10 @@ ___
 ![image](https://user-images.githubusercontent.com/16172615/74576011-c624ca80-4fbb-11ea-9ec1-e24ee6835681.png)
 ![image](https://user-images.githubusercontent.com/16172615/74576029-d341b980-4fbb-11ea-9ffd-49ec7d83968b.png)
 ![image](https://user-images.githubusercontent.com/16172615/74576040-e18fd580-4fbb-11ea-98f3-a5414de2d087.png)
+
+
+## 6. **SQLite demo**
+* App features:
+  * [x] Create database
+  * [x] Insert recode
+  * [x] Create/ query cursor
